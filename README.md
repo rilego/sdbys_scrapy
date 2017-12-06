@@ -59,3 +59,5 @@ CREATE TABLE `sdbys_tb1` (
  请修改 sdbys/spiders/sdbys.py 第16行 为开始与结束页数
  
  运行entrypoint.py开使爬取
+ 
+  ![image](https://github.com/rilego/sdbys_scrapy/blob/master/sdbys/20171206171328.png?raw=true)
