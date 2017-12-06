@@ -1,0 +1,5 @@
+.scrapy/
+souptest.py
+*.pyc
+.idea/
+__pycache__/
